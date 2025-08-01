@@ -31,7 +31,20 @@ Proxmox VE adalah platform open-source berbasis Debian Linux yang dibuat khusus 
 | 🌍 Web Interface      | Bisa diakses via browser, tanpa install software tambahan                         |
 
 ---
+## 📱 Bagaimana Cara Mengakses dan Mengelola Proxmox?
 
+Proxmox sangat fleksibel dalam hal manajemen! Kamu bisa mengaksesnya lewat:
+
+| Metode Akses            | Keterangan                                                          |
+| ----------------------- | ------------------------------------------------------------------- |
+| 🌐 Web Interface        | Akses utama lewat browser (contoh: `https://192.168.1.10:8006`)     |
+| 💻 SSH Terminal         | Untuk advanced user yang suka CLI (misal: `ssh root@ip-proxmox`)    |
+| 📱 **Mobile App Resmi** | Ada di Play Store dan App Store dengan nama **"Proxmox Mobile"**    |
+| 🧩 API / CLI Tools      | Untuk integrasi otomatis (misal via `pvesh` CLI tool atau REST API) |
+
+🔒 Akses bisa disesuaikan per user, dan setiap login bisa dilindungi dengan **Two-Factor Authentication** jika diaktifkan!
+
+---
 ## 🧭 Kenapa Proxmox Populer?
 
 ✨ Karena dia:
