@@ -131,7 +131,6 @@ Jika berhasil, kamu akan masuk ke shell root Proxmox! 🚀
 
 ---
 
-📍 Next: [`09_Kenalan_dengan_Proxmox.md`](09_Kenalan_dengan_Proxmox.md)    
-Di bab berikutnya kita akan masuk ke dunia Proxmox itu sendiri — server virtualisasi super keren yang akan jadi medan petualangan utama kita! 🎮🖥️
+📍 Next: [`09_Kenalan_dengan_Proxmox.md`](09_Kenalan_dengan_Proxmox.md) Di bab berikutnya kita akan masuk ke dunia Proxmox itu sendiri — server virtualisasi super keren yang akan jadi medan petualangan utama kita! 🎮🖥️
 
 
