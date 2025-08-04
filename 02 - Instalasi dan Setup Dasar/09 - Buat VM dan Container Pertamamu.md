@@ -1,7 +1,20 @@
-# 🛠️ 05 - Membuat VM Pertamamu di Proxmox
+# 🛠️ 09 - Buat VM dan Container Pertamamu
 
-Waktunya praktek! 🎉  
-Di bab ini, kamu akan membuat Virtual Machine (VM) pertama kamu — ibarat bikin komputer baru, tapi secara virtual!
+Akhirnya kita sampai di tahap yang paling *praktikal*! 🎉  
+Kita akan membuat dua hal penting:
+
+1. Virtual Machine (VM) berbasis ISO
+2. Container (LXC) berbasis template
+---
+
+## 🧠 Sekilas Perbedaan: VM vs LXC
+
+| Aspek         | VM (Virtual Machine)                     | LXC (Container)                          |
+|---------------|-------------------------------------------|-------------------------------------------|
+| Kernel        | Punya kernel sendiri (lebih berat)       | Pakai kernel host (lebih ringan)         |
+| Performa      | Lebih lambat, tapi fleksibel             | Cepat & efisien, tapi terbatas           |
+| OS            | Bisa Windows/Linux                       | Umumnya Linux saja                       |
+| Use-case      | Full OS, software kompleks               | Web app, API server, automation ringan   |
 
 ---
 
